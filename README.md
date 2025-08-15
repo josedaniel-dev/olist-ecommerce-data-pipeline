@@ -1,4 +1,4 @@
-# 📦 Sprint 1 – AnyoneAI 2025
+# 📦 Sprint 1 – AnyoneAI 2025 [Olist Ecommerce Data Pipeline]
 
 ## 📌 Project Overview
 
@@ -126,5 +126,6 @@ This notebook contains:
 
 * This repo avoids committing large CSVs; regenerate them via the pipeline.
 * SQLite database (`olist.sqlite`) is generated in `/artifacts`.
+
 
 
