@@ -21,4 +21,4 @@ outputs/
 
 # Ignore large local-only files
 artifacts/
-datasets/olist_geolocation_dataset.csv
+datasets/
