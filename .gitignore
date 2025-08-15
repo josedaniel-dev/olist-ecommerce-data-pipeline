@@ -1,0 +1,24 @@
+# Environment
+venv/
+sprint1/
+.env
+*.pyc
+__pycache__/
+
+# OS / Jupyter
+.ipynb_checkpoints/
+.DS_Store
+
+# Data caches
+data/
+cleaned_data/
+outputs/
+
+# Misc
+*.log
+*.tmp
+*.bak   
+
+# Ignore large local-only files
+artifacts/
+datasets/olist_geolocation_dataset.csv
